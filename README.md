@@ -1,1 +1,2 @@
-Final Project
+This is my final project. After many hours, blood, sweat, and tears, it's finally here. As always, I tried my best. Lets just hope my best is good enough. Using github has beed a challenge for me. And while I still don't really understand how it works (especially in tandem with with VScode and gitbash) I think I was able to get somewhere. I wish I had more time on this, but that's life i guess.
+Thanks for reading this far. Have a pleasant day.
